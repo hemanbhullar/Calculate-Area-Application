@@ -1,5 +1,5 @@
 package CalculateAreaWithoutOOPS;
-
+//without using oops concept
 import java.util.*;
 
 class Square{
