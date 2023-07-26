@@ -1,5 +1,5 @@
 package CalculateAreaWithOOPS;
-
+//Using oops concept
 import java.util.Scanner;
 
 abstract class Shape{
